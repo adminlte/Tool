@@ -101,7 +101,7 @@ DOMAIN-SUFFIX,kuaiyunzy.com
 DOMAIN-SUFFIX,fenwe078.cf
 
 # 快云资源
-DST-PORT,1234,DIRECT
+DST-PORT,1234
 
 # 哔嘀影视
 DOMAIN-SUFFIX,bdys10.com
