@@ -3,6 +3,11 @@
 #!category=Vod&CMS
 
 [Rule]
+# 小熊播放器（去广告）
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,ctobsnssdk.com,REJECT
 # 海外看（代理）
 DOMAIN-SUFFIX,haiwaikan.com,Proxy
 DOMAIN-SUFFIX,kin6c1.com,Proxy
