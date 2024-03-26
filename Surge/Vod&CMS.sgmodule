@@ -3,11 +3,6 @@
 #!category=Vod&CMS
 
 [Rule]
-# 小熊播放器（去广告）
-DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
-DOMAIN-SUFFIX,ctobsnssdk.com,REJECT
 #玩偶哥哥（直连）
 DOMAIN-SUFFIX,wogg.link,DIRECT
 DOMAIN-SUFFIX,wogg.xyz,DIRECT
